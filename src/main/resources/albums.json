@@ -1,0 +1,172 @@
+[
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Cindy Bradley",
+        "title": "You Don't Know What Love Is",
+        "releaseYear": "2012",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Marilyn Scott",
+        "title": "You Don't Know What Love Is",
+        "releaseYear": "1966",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Marvin Gaye",
+        "title": "What's Going On",
+        "releaseYear": "1971",
+        "genre": "Rnb"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Will Downing",
+        "title": "Ride ",
+        "releaseYear": "1990",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "U2",
+        "title": "The Joshua Tree",
+        "releaseYear": "1987",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Euge Groove ft. Chanel Haynes",
+        "title": "In Love With You",
+        "releaseYear": "2014",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Fleetwood Mac",
+        "title": "Rumours",
+        "releaseYear": "1977",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Elvis Presley",
+        "title": "Sun Sessions",
+        "releaseYear": "1976",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Michael Jackson",
+        "title": "Thriller",
+        "releaseYear": "1982",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "The Rolling Stones",
+        "title": "Exile on Main Street",
+        "releaseYear": "1972",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Euge Groove",
+        "title": "Love Won't Let Me Wait",
+        "releaseYear": "2015",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "The Clash",
+        "title": "London Calling",
+        "releaseYear": "1980",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "The Eagles",
+        "title": "Hotel California",
+        "releaseYear": "1976",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Pete Belasco",
+        "title": "Who's The Man",
+        "releaseYear": "2016",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Patti Austin",
+        "title": "First Time Love",
+        "releaseYear": "2011",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Police",
+        "title": "Synchronicity",
+        "releaseYear": "1983",
+        "genre": "Rock"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "U2",
+        "title": "Achtung Baby",
+        "releaseYear": "1991",
+        "genre": "Rock"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": " Andrea Razzauti",
+        "title": "Once In Barcelona",
+        "releaseYear": "2000",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "The Beatles",
+        "title": "Rubber Soul",
+        "releaseYear": "1965",
+        "genre": "Rock"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "The Ramones",
+        "title": "The Ramones",
+        "releaseYear": "1976",
+        "genre": "Smooth Jazz"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Queen",
+        "title": "A Night At The Opera",
+        "releaseYear": "1975",
+        "genre": "Rock"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Boston",
+        "title": "Don't Look Back",
+        "releaseYear": "1978",
+        "genre": "Rock"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "BB King",
+        "title": "Singin' The Blues",
+        "releaseYear": "1956",
+        "genre": "Blues"
+    },
+    {
+        "_class": "nl.cloudfoundry.musicdb.georges2017.domain.Album",
+        "artist": "Albert King",
+        "title": "Born Under A Bad Sign",
+        "releaseYear": "1967",
+        "genre": "Blues"
+    }
+    
+    
+]

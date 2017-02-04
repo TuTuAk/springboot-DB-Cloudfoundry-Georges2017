@@ -1,0 +1,7 @@
+---
+applications:
+- name: spring-music-georges2017
+  memory: 1G
+  random-route: true
+  path: build/libs/spring-music-cloud-db-georges2017.jar
+
