@@ -16,6 +16,8 @@ The manifest.yml is used cloudFoundry to locate the jar file located /spring-mus
 
 You can test the app by following the following cloudfoundry hyperlink: https://spring-music-georges2017-undeprecative-secretariat.cfapps.io/
 
+Georges A. 
+
 <p align="center">
   <img src="Koala.png"/>
  
