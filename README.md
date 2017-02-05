@@ -4,7 +4,7 @@ Spring Music
 This is a simple application for demonstrating database services on [Cloud Foundry](http://cloudfoundry.org) with the [Spring Framework](http://spring.io) and [Spring Boot](http://projects.spring.io/spring-boot/).
 
 
-The application use Spring Java configuration and bean profiles to configure the application and the connection objects needed to use the persistence . It also uses the Spring Cloud Connectors library to inspect the environment when running on Cloud Foundry. See the Cloud Foundry documentation for details on configuring a Spring application for Cloud Foundry
+The application use Spring Java configuration and bean profiles to configure the application and the connection objects needed to use the persistence . It also uses the Spring Cloud Connectors library to inspect the environment when running on Cloud Foundry. 
 
 
 For this app, I used Springboot, Gradle, Json, J.Script, Angular, Bootstrap, Cloudfoundry.
