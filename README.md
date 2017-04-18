@@ -27,7 +27,8 @@ The first thing to do is to run the gradle command <b>$./gradlew assemble</b> in
 The manifest.yml is used cloudFoundry to locate the jar file located /spring-music-master/build/libs. 
 
 
-You can test the app by following the following cloudfoundry hyperlink: https://spring-music-georges2017-undeprecative-secretariat.cfapps.io/
+You can test the app by following the following cloudfoundry hyperlink: https://spring-music-georges2017-undeprecative-secretariat.cfapps.io/ 
+(I have stopped the app to avoid billing from cloed foundry but i can start it upon your request if necessary )
 
 Georges A. 
 http://achillevanhoutte.blogspot.nl/
